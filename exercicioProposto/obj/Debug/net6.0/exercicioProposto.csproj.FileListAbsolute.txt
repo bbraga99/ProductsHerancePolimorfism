@@ -1,0 +1,15 @@
+C:\Users\brunu\Desktop\c#nelio\heranca e polimorfismo\heranca\exercicioHeranca\exercicioProposto\exercicioProposto\obj\Debug\net6.0\exercicioProposto.csproj.AssemblyReference.cache
+C:\Users\brunu\Desktop\c#nelio\heranca e polimorfismo\heranca\exercicioHeranca\exercicioProposto\exercicioProposto\obj\Debug\net6.0\exercicioProposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brunu\Desktop\c#nelio\heranca e polimorfismo\heranca\exercicioHeranca\exercicioProposto\exercicioProposto\obj\Debug\net6.0\exercicioProposto.AssemblyInfoInputs.cache
+C:\Users\brunu\Desktop\c#nelio\heranca e polimorfismo\heranca\exercicioHeranca\exercicioProposto\exercicioProposto\obj\Debug\net6.0\exercicioProposto.AssemblyInfo.cs
+C:\Users\brunu\Desktop\c#nelio\heranca e polimorfismo\heranca\exercicioHeranca\exercicioProposto\exercicioProposto\obj\Debug\net6.0\exercicioProposto.csproj.CoreCompileInputs.cache
+C:\Users\brunu\Desktop\c#nelio\heranca e polimorfismo\heranca\exercicioHeranca\exercicioProposto\exercicioProposto\bin\Debug\net6.0\exercicioProposto.exe
+C:\Users\brunu\Desktop\c#nelio\heranca e polimorfismo\heranca\exercicioHeranca\exercicioProposto\exercicioProposto\bin\Debug\net6.0\exercicioProposto.deps.json
+C:\Users\brunu\Desktop\c#nelio\heranca e polimorfismo\heranca\exercicioHeranca\exercicioProposto\exercicioProposto\bin\Debug\net6.0\exercicioProposto.runtimeconfig.json
+C:\Users\brunu\Desktop\c#nelio\heranca e polimorfismo\heranca\exercicioHeranca\exercicioProposto\exercicioProposto\bin\Debug\net6.0\exercicioProposto.dll
+C:\Users\brunu\Desktop\c#nelio\heranca e polimorfismo\heranca\exercicioHeranca\exercicioProposto\exercicioProposto\bin\Debug\net6.0\exercicioProposto.pdb
+C:\Users\brunu\Desktop\c#nelio\heranca e polimorfismo\heranca\exercicioHeranca\exercicioProposto\exercicioProposto\obj\Debug\net6.0\exercicioProposto.dll
+C:\Users\brunu\Desktop\c#nelio\heranca e polimorfismo\heranca\exercicioHeranca\exercicioProposto\exercicioProposto\obj\Debug\net6.0\refint\exercicioProposto.dll
+C:\Users\brunu\Desktop\c#nelio\heranca e polimorfismo\heranca\exercicioHeranca\exercicioProposto\exercicioProposto\obj\Debug\net6.0\exercicioProposto.pdb
+C:\Users\brunu\Desktop\c#nelio\heranca e polimorfismo\heranca\exercicioHeranca\exercicioProposto\exercicioProposto\obj\Debug\net6.0\exercicioProposto.genruntimeconfig.cache
+C:\Users\brunu\Desktop\c#nelio\heranca e polimorfismo\heranca\exercicioHeranca\exercicioProposto\exercicioProposto\obj\Debug\net6.0\ref\exercicioProposto.dll
